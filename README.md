@@ -102,7 +102,7 @@ Program terdiri dari dua komponen utama:
 
 ## Contoh Output
 
-<img src="/hasil__output_len.png)" width="500">
+<img src="/hasil__output_len.png" width="500">
 
 
 
